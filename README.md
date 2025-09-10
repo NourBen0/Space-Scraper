@@ -8,6 +8,7 @@
 This project is based on [Valem’s VR tutorial series](https://www.youtube.com/watch?v=YBQ_ps6e71k&t=4336s).
 
 ---
+<img width="1917" height="1008" alt="Screenshot 2025-09-10 183052" src="https://github.com/user-attachments/assets/97f9c43b-927a-4c08-b5dc-7936379642a5" />
 
 ## ✨ Features
 
