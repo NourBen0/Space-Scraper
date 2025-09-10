@@ -30,5 +30,5 @@ This project is based on [Valem’s VR tutorial series](https://www.youtube.com/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/spacescraper-vr.git
-   cd spacescraper-vr
+   git clone https://github.com/NourBen0/Space-Scraper.git
+   cd spacescraper
